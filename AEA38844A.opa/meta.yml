@@ -1,0 +1,19 @@
+id: AEA38844A
+title: Prayer for the Long Life of the Third Dodrupchen, Jigme Tenpai Nyima
+type: translation
+pechas:
+- IC460C048
+- IED9ED435
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:42:38.239863
+  last_modified_at: 2023-01-04 11:42:38.239874
+  collections:
+  - Dodrupchen Jigme Tenpe Nyima Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IC460C048/C32E: 9F2C
+  IED9ED435/9D2B: 9F2C
